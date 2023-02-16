@@ -5,7 +5,7 @@ Code Fellows, Code301 portfolio project
 This project will slowly evolve to become a personal portfolio website to showcase my abilities as a software developer
 
 ## Assets
-- Professional headshot will be added to assets directory on Monday, Feb 13th
+- ~~Professional headshot will be added to assets directory on Monday, Feb 13th ~~
 - BG_image.jpg can be rotated &/o cropped if necessary
 
 ## About Me
